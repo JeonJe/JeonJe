@@ -19,7 +19,7 @@
 
 
 🏀About Me</br>
-<a href="https://whssodi.notion.site/91f5eac67f6342dc8c75e3d8c2d1bae6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://premise.oopy.io"/></a>
+<a href="https://premise.oopy.io/"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://premise.oopy.io"/></a>
 
 
 
