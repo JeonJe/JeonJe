@@ -1,5 +1,6 @@
 🏀Blog</br>
 <a href="https://premise.oopy.io/"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://premise.oopy.io"/></a>
+<a href="https://jeonje.github.io/"><img src="https://img.shields.io/badge/githubpages-222222?style=flat&logo=githubpages-&logoColor=white&link=https://jeonje.github.io"/></a>
 
 ⚒️</br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
