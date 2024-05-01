@@ -1,6 +1,5 @@
 BLOG</br>
 <a href="https://jeonje.github.io/"><img src="https://img.shields.io/badge/Githubpages-222222?style=flat&logo=githubpages&logoColor=white&link=https://jeonje.github.io"/></a>
-<a href="https://noto.li/mrj8Xf"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://noto.li/mrj8Xf"/></a>
 
 
 BACK</br>
