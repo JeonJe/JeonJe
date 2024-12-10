@@ -1,3 +1,13 @@
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/JeonJe"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 BLOG</br>
 <a href="https://jeonje.github.io/"><img src="https://img.shields.io/badge/Githubpages-222222?style=flat&logo=githubpages&logoColor=white&link=https://jeonje.github.io"/></a>
 
