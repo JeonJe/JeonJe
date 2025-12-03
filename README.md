@@ -8,32 +8,6 @@
 </a>
 <br>
 
-## 🛠️ Live Service
-> **"실용적인 서비스를 만드는 것을 좋아합니다🥰"**
-
-
-**[CodeGym](https://code-gym.lovable.app/)**  
-알고리즘, 이제 코딩 말고 글로 먼저 풀어봐요!  
-'이렇게 풀면 되겠다'는 생각을 텍스트로 적으면, AI가 코드와 함께 날카로운 피드백을 줍니다.
-
-**[MORI](https://morning-reminder.lovable.app/)**  
-어젯밤 잊기 싫던 다짐과 아이디어, AI가 아침과 함께 떠올려보세요.  
-매일 뇌를 깨우는 이 간단한 습관으로 기억력 천재에 도전해보세요!
-
-**[CS-Practice-Tutor](https://cs-practice-tutor.lovable.app/)**  
-AI 면접관 앞에서 내가 알고 있는 것을 모두 말해보세요!  
-AI의 족집게 피드백만 있다면, 어떤 기술 질문에도 자신감이 생길 거예요.
-
-**[PrepHelper](https://prep-helper.lovable.app/)**  
-메소드 이름 짓는 그 10분, AI가 10초로 줄여드릴게요.
-칼퇴를 부르는 네이밍, 이제 고민 말고 추천받으세요.
-
-**[UpWrite](https://upwrite.lovable.app/)**  
-AI가 당신의 기술 블로그를 정밀 분석하고, 독자를 사로잡을 개선점을 콕콕 짚어드립니다.  
-이제 고민은 그만, 자신 있게 발행 버튼을 누르세요. 🚀
-
-
-<br>
 
 ## 💻 Tech Stack
 
